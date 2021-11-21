@@ -1,0 +1,7 @@
+{
+  "name": "learn-sy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
